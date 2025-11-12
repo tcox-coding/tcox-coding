@@ -1,6 +1,6 @@
-# Taylor Cox - Software Engineer
+# Taylor Cox - Full-Stack Software Engineer
 
-Software engineer with experience developing elegant user experiences and APIs.
+Full-Stack software engineer.
 
 ## Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
